@@ -1,27 +1,60 @@
-<h1 align="center">Hi 👋, I'm Emrecem Poyraz</h1>
-<h3 align="center">A passionate code learner from Turkey</h3>
+## Hello Guys , I'm Emrecem Poyraz
 
-- 🌱 I’m currently learning **Different frameworks about great test runs**
-
-- 📫 How to reach me **emrecempoyraz@gmail.com**
-
--💻| Software Developer in Test 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emrecem-poyraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecem-poyraz" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecempoyraz&show_icons=true&locale=en&layout=compact" alt="emrecempoyraz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecempoyraz&show_icons=true&locale=en" alt="emrecempoyraz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrecempoyraz&" alt="emrecempoyraz" /></p>
+# 💻 Software Developer in Test
 
 
 
 
-![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
+<br>
+<h2 align="center"> Reach out to me</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/emrecem-poyraz/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+</div>
+
+<br>
+<table align="center" >
+     <tr>
+        <td colspan="2">
+        <strong><samp>My Stats</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>My Languages</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=emrecempoyraz&show_icons=true&locale=en&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=emrecempoyraz&show_icons=true&locale=en&theme=tokyonight" alt="emrecempoyraz">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecempoyraz&theme=tokyonight&langs_count=10&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecempoyraz&theme=tokyonight&langs_count=10&layout=compact" alt="emrecempoyraz">
+        </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<h1 align="center"> :hammer_and_wrench: My Skillset </h1> 
+ 
+ <div align="center" >
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://copm.s3.amazonaws.com/581f5ac1.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://miro.medium.com/max/400/1*qmS-f8Pv72ZavjF22v-xiw.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=e4404bd4726626092e912b5ccd9a9f97-4322178-images-thumbs&n=13" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://devqa.io/assets/images/karate-automated-api-testing.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://miro.medium.com/max/1400/1*dOZ2YEUpPOxiNGVMq6-K_g.jpeg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://miro.medium.com/max/631/1*vVFlHffet6kcD4cBNogVzQ.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1451297216187011072/xLd1JSZk_400x400.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+</div>
